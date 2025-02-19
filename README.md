@@ -9,6 +9,4 @@ Persistence is Key!!!
 Hello Again. Still not working 
 Lets hope this works
 Trying again
-Baba Dudu
-baba Danku 
-Danku Ni Koko
+
